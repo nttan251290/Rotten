@@ -32,4 +32,4 @@ Optional
 [ ] Add a search bar: pretty simple implementation of searching against the existing table view data.
 
 Walkthrough
-
+![](file:///Users/nvt/Documents/Rottens-tomatoes.gif)
