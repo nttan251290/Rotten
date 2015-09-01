@@ -32,4 +32,6 @@ Optional
 [ ] Add a search bar: pretty simple implementation of searching against the existing table view data.
 
 Walkthrough
+
+
 ![](https://github.com/nttan251290/Rotten/blob/master/Rottens-tomatoes.gif)
